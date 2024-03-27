@@ -10,12 +10,12 @@ I am deeply fascinated by the intersection of data, technology, and human behavi
 
 ### Tech Stack 👩‍💻 
 
-- Programming Languages: Python (NumPy, Pandas, Scikit-learn)
-- Data Analysis: Pandas, Microsoft Excel
-- Data Visualization: Seaborn, Matplotlib, Plotly
-- Machine Learning: Supervised and Unsupervised Learning, Regression, Classification, Clustering
-- Database Management: SQL
-- Tools & Libraries: Git, Jupyter Notebooks
+- **Programming Languages:** Python (NumPy, Pandas, Scikit-learn)
+- **Data Analysis:** Pandas, Microsoft Excel
+- **Data Visualization:** Seaborn, Matplotlib, Plotly
+- **Machine Learning:** Supervised and Unsupervised Learning, Regression, Classification, Clustering
+- **Database Management:** SQL
+- **Tools & Libraries:** Git, Jupyter Notebooks
 
 ### Projects 🚀
 
