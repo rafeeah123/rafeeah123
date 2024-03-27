@@ -24,13 +24,8 @@ I am deeply fascinated by the intersection of data, technology, and human behavi
 2.[Data Analysis in Hospitality Domain using Pandas](https://github.com/rafeeah123/AtliqHotels_DataAnalysis)
 
 
-### Github Stats
-
-[![Rafeeah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafeeah123)](https://github.com/rafeeah123/github-readme-stats)
-
-
 ### Connect with Me 🔗
 
 Let's connect and learn together! Feel free to reach out to me via:
 
-LinkedIn: [https://www.linkedin.com/in/rafeeahramzan/]
+[LinkedIn](https://www.linkedin.com/in/rafeeahramzan/)
