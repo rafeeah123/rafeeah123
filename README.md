@@ -23,6 +23,8 @@ I am deeply fascinated by the intersection of data, technology, and human behavi
 
 2.[Data Analysis in Hospitality Domain using Pandas](https://github.com/rafeeah123/AtliqHotels_DataAnalysis)
 
+3.[Business Insights 360](https://github.com/rafeeah123/DataAnalysis/tree/main/Power%20BI/Business%20Insights%20360)
+
 
 ### Connect with Me 🔗
 
