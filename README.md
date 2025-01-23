@@ -6,7 +6,11 @@ Hi there! 👋 I'm Rafeeah, an aspiring data scientist. Driven by my love and cu
 
 ### About Me 📊
 
-I am deeply fascinated by the intersection of data, technology, and human behaviour. With 4+ years of IT experience, I am on a journey to continuously upskill myself in the field of data science. My curiosity drives me to explore various domains within data science, including machine learning, data analysis, and data visualization.
+As a data analyst, I specialize in transforming raw data into actionable insights that drive meaningful results. Currently, I lead the analysis and reporting of social media performance for prestigious public sector accounts in the U.A.E. and K.S.A., using tools like Power BI and advanced data visualization techniques to deliver impactful solutions.
+
+With a foundation in IT and experience in production support and ERP development, I bring a unique technical perspective to my work. My passion lies in harnessing the power of data to optimize performance, streamline processes, and support data-driven decision-making.
+
+I am committed to continuous learning and aspire to become a data scientist, mastering AI and advanced analytics to tackle complex challenges. I thrive in collaborative environments where I can contribute to creating innovative, data-driven solutions that make a difference.
 
 ### Tech Stack 👩‍💻 
 
